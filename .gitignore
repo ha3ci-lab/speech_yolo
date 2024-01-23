@@ -1,3 +1,6 @@
 venv/
 env/
 speechyolo_model/*
+speech_commands_v0.01/*
+speech_commands_v0.01*
+screenlog*
